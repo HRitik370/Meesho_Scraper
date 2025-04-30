@@ -1,0 +1,14 @@
+Making the api for request
+
+taking attribute
+product name
+price,
+images
+review
+rating
+description
+
+delivery date (after the login the site)
+
+
+Need to give 2000+ request without any blocking and delivered the data in csv file

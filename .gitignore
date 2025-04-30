@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Chrome profile data
+chrome_profile/
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
