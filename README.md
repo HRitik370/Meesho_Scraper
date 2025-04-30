@@ -14,8 +14,9 @@ A FastAPI-based web scraper for Meesho products with delivery date checking.
 
 1. Clone the repository
 2. Install dependencies: `pip install -r requirements.txt`
-3. Run the API: `python app.py`
+3. Run the API: `python fast_app.py`
 4. Access the API documentation: http://localhost:8000/docs
+5. Change Configuration if needed in config.py such as chrome browser version and chrome profile path.
 
 ## API Endpoints
 
